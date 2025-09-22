@@ -1,4 +1,4 @@
-# Practica1 - Explorando Componentes UI con Jetpack Compose
+# Practica1 -  "Instalación y Funcionamiento de los Entornos Móviles"
 
 ![Android-Kotlin-Compose](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Language-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
