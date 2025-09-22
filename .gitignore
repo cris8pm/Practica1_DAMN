@@ -1,0 +1,94 @@
+# Archivos de JetBrains / Android Studio
+.idea/
+.gradle/
+build/
+local.properties
+.DS_Store # macOS specific
+
+# Archivos generados por Android
+**/.classpath
+**/.project
+**/.settings
+**/.externalToolBuilders/
+**/.apt_generated
+**/.factorypath
+
+# Gradle
+/local.properties
+.DS_Store
+
+# Build artifacts
+/build
+/captures
+
+# Pertenencias de Gradle wrapper
+!gradle/wrapper/gradle-wrapper.jar
+
+# Keystore files
+*.jks
+*.keystore
+
+# External native build folder
+.cxx/
+
+# Instant Run
+.navigation/
+
+# Android Studio - Navigation Component safeargs
+buildSrc/build/
+
+# Android Studio - Test Coverage
+*.ec
+
+# Room - Database Inspector
+*.db-journal
+*.db-shm
+*.db-wal
+*.db
+
+# Directorios de módulos
+# Los directorios build de cada módulo individual
+**/build/
+
+# Archivos de prueba
+/test/
+
+# Otros archivos
+*.iml
+*.iws
+*.ipr
+
+# Dependencias externas
+/libs/
+
+# Firebase
+google-services.json # Si usas Firebase, no subas este archivo a menos que lo desees explícitamente y comprendas las implicaciones de seguridad.
+
+# Archivos de configuracion de NDK
+.external_build_settings.json
+
+# Archivos de proguard/r8 generados
+*-rules.pro
+
+# Directorios generados por KMM (Kotlin Multiplatform Mobile) si aplicara
+# .kmm/
+# .ksp/
+
+# IDE files
+# Visual Studio Code
+.vscode/
+
+# Editor de texto
+*~
+
+# Directorio de recursos
+# No excluir assets ni res a menos que haya una razón específica.
+# /app/src/main/assets/
+# /app/src/main/res/
+
+# Directorios de debug
+# Estos son archivos temporales de debug
+app/*.ap_
+app/*.dex
+app/*.smap
+app/build/
